@@ -1,8 +1,9 @@
+
 # Multi-Agent Data Collection Pipeline
 
 > A modular, resumable, fault-tolerant pipeline that collects public data at scale by dividing the work across specialized agents running in parallel.
 
-![Pipeline Architecture](docs/pipeline-architecture.png)
+<img width="1245" height="705" alt=" - visual selection-3" src="https://github.com/user-attachments/assets/a8282596-679b-4fdd-a32a-692a29d7a43a" />
 
 ---
 
