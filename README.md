@@ -2,7 +2,8 @@
 
 > A modular, resumable, fault-tolerant pipeline that collects public data at scale by dividing the work across specialized agents running in parallel.
 
-![Pipeline Architecture](docs/pipeline-architecture.png)
+![Pipeline Architecture](<img width="1245" height="705" alt=" - visual selection-3" src="https://github.com/user-attachments/assets/fd1f3530-915a-466e-840c-9b42b7fafc27" />
+)
 
 ---
 
